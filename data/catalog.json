@@ -1,0 +1,245 @@
+{
+  "brand": {
+    "name": "Luxe Nour by Nihla",
+    "tagline": "Elegance redefined — where beauty meets tradition",
+    "instagram": "https://www.instagram.com/luxenourbynihla",
+    "whatsapp": "917012884854"
+  },
+  "categories": [
+    {
+      "id": "kaftans",
+      "name": "Kaftans",
+      "image": "images/categories/kaftans.svg"
+    },
+    {
+      "id": "modal-silk",
+      "name": "Modal Silk",
+      "image": "images/categories/modal-silk.svg"
+    },
+    {
+      "id": "lawn-suits",
+      "name": "Lawn Suits",
+      "image": "images/categories/lawn-suits.svg"
+    },
+    {
+      "id": "handwork",
+      "name": "Bead & Aari",
+      "image": "images/categories/handwork.svg"
+    }
+  ],
+  "products": [
+    {
+      "id": "LN-101",
+      "name": "Noor Kaftan",
+      "category": "kaftans",
+      "price": 14800,
+      "currency": "INR",
+      "description": "A fluid open kaftan with a gold-thread centre line, cuff guides, and a quiet diamond hem. Cut long and easy, for gatherings and unhurried days. Length, sleeve, and neckline can be adjusted when you order.",
+      "images": [
+        "images/products/ln-101-look.svg",
+        "images/products/ln-101-detail.svg",
+        "images/products/ln-101-alt.svg"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "Custom"],
+      "colors": ["Champagne", "Ivory", "Ink"],
+      "available": true,
+      "featured": true
+    },
+    {
+      "id": "LN-104",
+      "name": "Mehr Kaftan",
+      "category": "kaftans",
+      "price": 16800,
+      "currency": "INR",
+      "description": "A deeper kaftan in a jewel tone, with a narrow vine along the front and side openings that keep the stride easy. Fully lined through the body, and finished by hand at the cuffs.",
+      "images": [
+        "images/products/ln-104-look.svg",
+        "images/products/ln-104-detail.svg"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "Custom"],
+      "colors": ["Emerald", "Sand", "Black"],
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": "LN-108",
+      "name": "Saffron Kaftan",
+      "category": "kaftans",
+      "price": 13200,
+      "currency": "INR",
+      "description": "A lighter kaftan in warm saffron, bordered with a slim aari line at the hem. Meant for daytime events and travel, with a soft drape that does not cling.",
+      "images": [
+        "images/products/ln-108-look.svg",
+        "images/products/ln-108-detail.svg"
+      ],
+      "sizes": ["S", "M", "L", "XL", "Custom"],
+      "colors": ["Saffron", "Cream"],
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": "LN-201",
+      "name": "Ruh Silk Dress",
+      "category": "modal-silk",
+      "price": 21400,
+      "currency": "INR",
+      "description": "A modest column dress in modal silk: high neck, long sleeve, and a gentle flare from the hip. The inner layer is opaque. A small floral motif sits at the chest, echoed as a fine hem.",
+      "images": [
+        "images/products/ln-201-look.svg",
+        "images/products/ln-201-detail.svg",
+        "images/products/ln-201-alt.svg"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "Custom"],
+      "colors": ["Blush", "Ivory", "Charcoal"],
+      "available": true,
+      "featured": true
+    },
+    {
+      "id": "LN-206",
+      "name": "Layla Silk Set",
+      "category": "modal-silk",
+      "price": 24600,
+      "currency": "INR",
+      "description": "Tunic, wide trouser, and a sheer-edged dupatta in midnight modal silk. Gold thread traces the dupatta border. The set is made to order, so the tunic length can meet your preference.",
+      "images": [
+        "images/products/ln-206-look.svg",
+        "images/products/ln-206-detail.svg"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "Custom"],
+      "colors": ["Midnight", "Gold", "Pearl"],
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": "LN-214",
+      "name": "Nocturne Silk Gown",
+      "category": "modal-silk",
+      "price": 26800,
+      "currency": "INR",
+      "description": "A narrow evening column with scattered bead work and a high neckline. The current piece is with a client. Enquire to commission the next one in your measurements.",
+      "images": [
+        "images/products/ln-214-look.svg",
+        "images/products/ln-214-detail.svg"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "Custom"],
+      "colors": ["Ink", "Gold"],
+      "available": false,
+      "featured": false
+    },
+    {
+      "id": "LN-301",
+      "name": "Zay Lawn Suit",
+      "category": "lawn-suits",
+      "price": 9800,
+      "currency": "INR",
+      "description": "A three-piece lawn suit: straight tunic, tapered trouser, and a light dupatta. The neckline carries a small floral, and the hem is marked with a diamond stitch. Soft enough for long wear.",
+      "images": [
+        "images/products/ln-301-look.svg",
+        "images/products/ln-301-detail.svg",
+        "images/products/ln-301-alt.svg"
+      ],
+      "sizes": ["S", "M", "L", "XL", "Custom"],
+      "colors": ["Sage", "Ivory", "Rose"],
+      "available": true,
+      "featured": true
+    },
+    {
+      "id": "LN-307",
+      "name": "Hira Lawn Suit",
+      "category": "lawn-suits",
+      "price": 11200,
+      "currency": "INR",
+      "description": "Powder-blue lawn with tonal embroidery gathered at the neck and a clean trouser. The dupatta is edged, not heavy, so the suit stays cool.",
+      "images": [
+        "images/products/ln-307-look.svg",
+        "images/products/ln-307-detail.svg"
+      ],
+      "sizes": ["S", "M", "L", "XL", "Custom"],
+      "colors": ["Powder Blue", "White"],
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": "LN-312",
+      "name": "Amal Lawn Suit",
+      "category": "lawn-suits",
+      "price": 8900,
+      "currency": "INR",
+      "description": "Coral lawn suit with a narrow gold border on the dupatta and a simple tunic. A useful piece for daytime functions when you want colour without weight.",
+      "images": [
+        "images/products/ln-312-look.svg",
+        "images/products/ln-312-detail.svg"
+      ],
+      "sizes": ["S", "M", "L", "XL", "Custom"],
+      "colors": ["Coral", "Cream", "Gold"],
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": "LN-401",
+      "name": "Aari Bloom Tunic",
+      "category": "handwork",
+      "price": 17600,
+      "currency": "INR",
+      "description": "An ivory tunic covered in small aari florals, each with a bead at the centre. The handwork is the point of the piece; the cut stays modest, with a long sleeve and a covered neckline.",
+      "images": [
+        "images/products/ln-401-look.svg",
+        "images/products/ln-401-detail.svg",
+        "images/products/ln-401-alt.svg"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "Custom"],
+      "colors": ["Ivory", "Gold"],
+      "available": true,
+      "featured": true
+    },
+    {
+      "id": "LN-409",
+      "name": "Beaded Evening Overlay",
+      "category": "handwork",
+      "price": 24500,
+      "currency": "INR",
+      "description": "A sheer overlay seeded with bead clusters, worn over an opaque slip of the same length. Sleeves are full. Ask if you would like the bead field denser at the neck or hem.",
+      "images": [
+        "images/products/ln-409-look.svg",
+        "images/products/ln-409-detail.svg"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "Custom"],
+      "colors": ["Black", "Champagne"],
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": "LN-501",
+      "name": "Cacao Column",
+      "category": "handwork",
+      "price": 28500,
+      "currency": "INR",
+      "description": "A rich brown column with a delicate neckline motif and a scatter of small beads. Designed for evening, with a lining and a hem that can be set to your height.",
+      "images": [
+        "images/products/ln-501-look.svg",
+        "images/products/ln-501-detail.svg",
+        "images/products/ln-501-alt.svg"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "Custom"],
+      "colors": ["Chocolate", "Champagne"],
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": "LN-508",
+      "name": "Pearl Nikah Ensemble",
+      "category": "handwork",
+      "price": 36000,
+      "currency": "INR",
+      "description": "An ivory occasion ensemble with pearl-scatter handwork and a gold thread hem. Commissioned for nikah and evening. Share your date when you enquire so the studio can confirm the making time.",
+      "images": [
+        "images/products/ln-508-look.svg",
+        "images/products/ln-508-detail.svg"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "Custom"],
+      "colors": ["Ivory", "Pearl", "Gold"],
+      "available": true,
+      "featured": false
+    }
+  ]
+}
